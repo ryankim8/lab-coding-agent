@@ -1,5 +1,5 @@
 import sys
-#
+
 def cat(file):
     while True:
         chunk = file.read(8192)
